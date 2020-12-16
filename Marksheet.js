@@ -1,15 +1,33 @@
-var Applied_physics = function(){
-    return "Applied physics = 87"
+function Applied_physics(){
+    var A_physics = "Applied physics= 83"
+    console.log(A_physics)
 }
-var Calculus = function(){
-    return "Calculus = 85"
+Applied_physics();
+
+function Calculus(){
+    var Calculuss = "Calculus= 87"
+    console.log(Calculuss)
 }
-var Functional_English = function(){
-    return "Functional_English = 43"
+Calculus();
+
+function C_pls_pls(){
+    var C_Plus_plus = "C++ =82"
+    console.log(C_Plus_plus)
 }
-var C_pls_pls = function(){
-    return "C++ = 75"}
-console.log(C_pls_pls());
-console.log(Functional_English());
-console.log(Applied_physics());
-console.log(Calculus());
+C_pls_pls();
+
+Applied_physics();
+
+function F_English(){
+    var FEnglish = "Functional English= 41"
+    console.log(FEnglish)
+}
+F_English();
+
+Applied_physics();
+
+function semester_1(){
+    var Total_marks = "1st Semester total marks= 376"
+    console.log(Total_marks)
+}
+semester_1();
